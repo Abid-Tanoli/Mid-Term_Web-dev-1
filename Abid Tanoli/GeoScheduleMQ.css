@@ -1,0 +1,888 @@
+@media screen and (min-width: 1601px) {
+    html {
+        margin: 0%;
+        padding: 0%;
+    }
+    body {
+        width: 99vw;
+    }   
+    .header-bottom {
+        height: 24vh;
+        width: 98.75vw;
+        font-size: 10px;
+        margin-top: -4px;
+    }
+    .header-nowon {
+        height: 24vh;
+    }
+    .nowon-text1 {
+        margin-top: 50px;
+        font-size: 4em;
+    }
+    .nowon-text2 {
+        margin-top: 50px;
+        font-size: 6em;
+    }
+    .flip-area {
+        height: 23.5vh;
+    }
+    .ghaata {
+        height: 23.5vh;
+    }
+    .ghaata-img {
+        height: 140px;
+    }
+    .responsive-ghaata-img {
+        height: 140px;
+        width:  18vw;
+        margin-left: -70px;
+    }
+    .ghaata-text {
+        margin-left: -40px;
+        font-size: 2em;
+    }
+    .shiddat {
+        height: 23.5vh;
+    }
+    .responsive-shiddat-img {
+        height: 150px;
+        left: -48px;
+        top: -5px;
+    }
+    .shiddat-text {
+        margin-top: -15px;
+        font-size: 2em;
+    }
+    .bayhad {
+        height: 23.5vh;
+    }
+    .responsive-bayhad-img {
+        height: 150px;
+        left: -48px;
+        top: -5px;
+    }
+    .bayhad-text {
+        margin-top: -15px;
+        font-size: 2em;
+    }
+    .next-text {
+        margin-top: -10px;
+        font-size: 5em;
+    }
+    .responsive-schedule-img {
+        width: 340px;
+        height: 250px;
+    }
+
+    .container-right {
+        flex-direction: column;
+        width: 30vw;
+        height: auto;
+        margin-top: 50px;        
+    }
+    .responsive-righttop{
+        width: 280px;
+        height: 400px;
+    }
+    .blogs-area {
+        height: 100px;
+        width: 26vw;
+        margin-left: -35px;
+        margin-top: 60px;
+    }
+    .blgtext {
+        width: 15vw;
+        margin-left: 10px;
+    }
+    .blgtext-h {
+        font-size: 1.3em;
+    }
+    .blgtext-p {
+        font-size: 1.3em;
+        margin-top: -10px;
+    }
+    .responsive-blg-img {
+        height: 130px;
+        width: 170px;
+    }
+
+    .evergreen{
+        margin-top: 700px;
+    }
+    .highlight {
+        height: 820px;
+        width: 25vw;
+    }
+    .heading {
+        font-size: 1.4em;
+    }
+    .text {
+        font-size: 1.5em;     
+    }
+
+}
+
+@media screen and (max-width: 1600px) {
+    html {
+        margin: 0%;
+        padding: 0%;
+    }
+    body {
+        width: 99vw;
+    }   
+    .header-bottom {
+        height: 20vh;
+        width: 98.75vw;
+        font-size: 10px;
+        margin-top: -4px;
+    }
+    .header-nowon {
+        height: 20vh;
+    }
+    .nowon-text1 {
+        margin-top: 50px;
+        font-size: 3em;
+    }
+    .nowon-text2 {
+        margin-top: 50px;
+        font-size: 5em;
+    }
+    .flip-area {
+        height: 19.5vh;
+    }
+    .ghaata {
+        height: 19.5vh;
+    }
+    .ghaata-img {
+        height: 134px;
+    }
+    .responsive-ghaata-img {
+        height: 134px;
+        width:  17vw;
+        margin-left: -35px;
+    }
+    .ghaata-text {
+        margin-left: -20px;
+        font-size: 2em;
+    }
+    .shiddat {
+        height: 19.5vh;
+    }
+    .responsive-shiddat-img {
+        height: 150px;
+        left: -40px;
+        top: -8px;
+    }
+    .shiddat-text {
+        margin-top: -2.5px;
+        font-size: 1.7em;
+    }
+    .bayhad {
+        height: 19.5vh;
+    }
+    .responsive-bayhad-img {
+        height: 150px;
+        left: -40px;
+        top: -8px;
+    }
+    .bayhad-text {
+        margin-top: -2.5px;
+        font-size: 1.7em;
+    }
+    .next-text {
+        margin-top: 14px;
+        font-size: 3.5em;
+    }
+    .container-right {
+        flex-direction: column;
+        width: 30vw;
+        height: auto;
+        margin-top: 50px;        
+    }
+    .responsive-righttop{
+        width: 280px;
+        height: 400px;
+    }
+    .blogs-area {
+        height: 100px;
+        width: 26vw;
+        margin-left: -35px;
+        margin-top: 60px;
+    }
+    .blgtext {
+        width: 15vw;
+        margin-left: 10px;
+    }
+    .blgtext-h {
+        font-size: 1.3em;
+    }
+    .blgtext-p {
+        font-size: 1.3em;
+        margin-top: -10px;
+    }
+    .responsive-blg-img {
+        height: 130px;
+        width: 170px;
+    }
+
+    .evergreen{
+        margin-top: 700px;
+    }
+    .highlight {
+        height: 820px;
+        width: 25vw;
+    }
+    .heading {
+        font-size: 1.5em;
+    }
+    .text {
+        font-size: 1.3em;     
+    }
+
+}
+
+@media screen and (max-width: 1280px) {
+    html {
+        margin: 0%;
+        padding: 0%;
+    }
+    body {
+        width: 99vw;
+    }
+    .header-bottom {
+        height: 20vh;
+        width: 98.75vw;
+        font-size: 10px;
+        margin-top: -4px;
+    }
+    .header-nowon {
+        height: 20vh;
+    }
+    .nowon-text1 {
+        margin-top: 10px;
+        font-size: 3em;
+    }
+    .nowon-text2 {
+        margin-top: 30px;
+        font-size: 5em;
+    }
+    .flip-area {
+        height: 19.5vh;
+    }
+    .ghaata {
+        height: 19.5vh;
+    }
+    .ghaata-img {
+        height: 120px;
+    }
+    .responsive-ghaata-img {
+        height: 120px;
+        width:  18vw;
+        margin-left: -35px;
+    }
+    .ghaata-text {
+        margin-left: -20px;
+        font-size: 1.7em;
+    }
+    .shiddat {
+        height: 19.5vh;
+    }
+    .responsive-shiddat-img {
+        height: 150px;
+        left: -30px;
+        top: -15px;
+    }
+    .shiddat-text {
+        margin-top: -2.5px;
+        font-size: 1.5em;
+    }
+    .bayhad {
+        height: 19.5vh;
+    }
+    .responsive-bayhad-img {
+        height: 150px;
+        left: -30px;
+        top: -15px;
+    }
+    .bayhad-text {
+        margin-top: -2.5px;
+        font-size: 1.5em;
+    }
+    .next-text {
+        margin-top: -5px;
+        font-size: 3.5em;
+    }
+    .fix-header {
+        height: 100vh;
+        flex-direction: row;
+        justify-content: space-between; 
+    }
+    .fix-header-bar{
+        width: 90vw;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        font-size: 20px;
+    }
+    .container-main {
+        display: flex;
+        flex-direction: row;
+    }
+    .responsive-schedule-img {
+        width: 200px;
+        height: 160px;
+    }
+    .container-right {
+            flex-direction: column;
+            width: 30vw;
+            height: auto;        
+    }
+    .right-top {
+            height: 100vh;
+            width: 20vw;
+    }
+    .responsive-righttop{
+            width: 190px;
+            height: 250px;
+    }
+    .blogs-area {
+            height: 200vh;
+            width: 25vw;
+            margin-top: -600px;
+    }
+    .blgtext {
+            width: 10vw;
+            margin-left: 10px;
+    }
+    .blgtext-h {
+            font-size: .8em;
+    }
+    .blgtext-p {
+            font-size: .6em;
+            margin-top: -10px;
+    }
+    .evergreen{
+            margin-top: -1000px;
+    }
+    .heading {
+            font-size: 1em;
+    }
+    .text {
+            font-size: .8em;     
+    }
+    .footer-top {
+            height: 10vh;
+            width: 98.75vw;
+            font-size: 18px;
+    }
+    .footer-bottom {
+            font-size: 20px;
+    }
+}
+
+@media screen and (max-width: 940px) {
+    html {
+        margin: 0%;
+        padding: 0%;
+    }
+    body {
+        width: 99vw;
+    }   
+    .header-bottom {
+        height: 16vh;
+        width: 98.75vw;
+        font-size: 10px;
+        margin-top: -4px;
+    }
+    .header-nowon {
+        height: 16vh;
+    }
+    .nowon-text1 {
+        margin-top: 30px;
+        font-size: 2em;
+    }
+    .nowon-text2 {
+        margin-top: 30px;
+        font-size: 4em;
+    }
+    .flip-area {
+        height: 16vh;
+    }
+    .ghaata {
+        height: 15.5vh;
+    }
+    .ghaata-img {
+        height: 110px;
+    }
+    .responsive-ghaata-img {
+        height: 109px;
+        width:  17vw;
+        margin-left: -23px;
+    }
+    .ghaata-text {
+        margin-left: -20px;
+        font-size: 1.5em;
+    }
+    .shiddat {
+        height: 15.5vh;
+    }
+    .responsive-shiddat-img {
+        height: 120px;
+        left: -24px;
+        top: -8px;
+    }
+    .shiddat-text {
+        margin-top: -2.5px;
+        font-size: 1.4em;
+    }
+    .bayhad {
+        height: 15.5vh;
+    }
+    .responsive-bayhad-img {
+        height: 120px;
+        left: -24px;
+        top: -8px;
+    }
+    .bayhad-text {
+        margin-top: -2.5px;
+        font-size: 1.4em;
+    }
+    .next-text {
+        margin-top: 14px;
+        font-size: 2.5em;
+    }
+    .fix-header {
+        flex-direction: column;
+        justify-content: space-between; 
+    }
+    .tv-icon {
+        margin-left: -680px;
+    }
+    .fix-header-bar{
+        width: 90vw;
+        font-size: 1.3em;
+    }
+    .header-social{
+        width: 99vw;
+    }
+    .container-main {
+        display: flex;
+        flex-direction: row;
+    }
+    .container-left {
+        width: 60vw;
+    }
+    .schedulelist {
+        width: 58vw;
+    }
+    .responsive-schedule-img {
+        width: 200px;
+        height: 160px;
+        }
+    .container-right {
+            flex-direction: column;
+            width: 30vw;
+            height: auto;        
+        }
+        .right-top {
+            height: 100vh;
+            width: 20vw;
+        }
+        .responsive-righttop{
+            width: 150px;
+            height: 250px;
+        }
+        .blogs-area {
+            height: 200vh;
+            width: 30vw;
+            margin-top: -800px;
+            margin-left: -20px;
+        }
+        .blgtext {
+            width: 15vw;
+            margin-left: 10px;
+        }
+        .blgtext-h {
+            font-size: .8em;
+        }
+        .blgtext-p {
+            font-size: .8em;
+            margin-top: -10px;
+        }
+        .evergreen{
+            margin-top: -1000px;
+        }
+        .highlight {
+            width: 23vw;
+        }
+        .text {
+            font-size: .8em;     
+        }
+        .footer-top {
+            height: 10vh;
+            width: 98.75vw;
+            font-size: 15px;
+        }
+        .footer-bottom {
+            font-size: 15px;
+        }
+}
+
+@media screen and (max-width: 768px) {
+    html {
+        margin: 0%;
+        padding: 0%;
+    }
+    body {
+        width: 99vw;
+        height: auto;
+    }
+    .header-top {
+        width: 99vw;
+        height: 40vh;
+    }
+    .header-bottom {
+        height: 12vh;
+        width: 98.75vw;
+        font-size: 8px;
+        margin-top: -78px;
+    }
+    .header-nowon {
+        height: 12vh;
+    }
+    .nowon-text1 {
+        margin-top: 30px;
+        font-size: 2em;
+    }
+    .nowon-text2 {
+        margin-top: 30px;
+        font-size: 3.5em;
+    }
+    .flip-area {
+        height: 11.5vh;
+    }
+    .ghaata {
+        height: 11.5vh;
+    }
+    .ghaata-img {
+        height: 78px;
+        width:  6vw;
+    }
+    .responsive-ghaata-img {
+        height: 78px;
+        width:  16vw;
+        margin-left: -19px;
+    }
+    .ghaata-text {
+        margin-left: -20px;
+        font-size: 1.3em;
+    }
+    .shiddat {
+        height: 11.5vh;
+    }
+    .responsive-shiddat-img {
+        height: 80px;
+        left: -18px;
+    }
+    .shiddat-text {
+        margin-top: -3px;
+        font-size: 1.3em;
+    }
+    .bayhad {
+        height: 11.5vh;
+        width: 16vw;
+    }
+    .responsive-bayhad-img {
+        height: 80px;
+        left: -18px;
+    }
+    .bayhad-text {
+        margin-top: -3px;
+        font-size: 1.3em;
+    }
+    .next-text {
+        margin-top: 14px;
+        font-size: 2em;
+    }
+    .fix-header {
+        width: 99vw;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+    .tv-icon {
+        margin-left: -400px;
+    }
+    .fix-header-bar{
+        width: 99vw;
+        font-size: 1em;
+    }
+    .header-social{
+        width: 99vw;
+    }
+    .center {
+        height: auto;
+        width: 99vw;
+    }
+    .container-main {
+        display: flex;
+        flex-direction: column;
+        height: 11000px;
+        width: auto;
+    }
+    .container-left{
+        display: flex;
+        justify-content: center;
+        width: 50vw;
+        margin-left: 80px;
+        margin-top: -800px;
+    }
+    .Schedule-text{
+        display: flex;
+        justify-content: center;
+        width: 10vw;
+        margin-left: 30px;
+    }
+    .responsive-schedule-img {
+        width: 300px;
+        height: 230px;
+    }
+    .container-right {
+        flex-direction: column;
+        height: auto;
+        margin-left: -300px;
+    }
+    .right-top {
+        height: 99vh;
+        width: 60vw;
+        margin-top: 8400px;
+    }
+    .responsive-righttop{
+        width: 350px;
+        height: 450px;
+    }
+    .blogs-area {
+        height: 200vh;
+        width: 60vw;
+        margin-top: 50px;
+    }
+        
+    .blgtext {
+        width: 35vw;
+        margin-left: 10px;
+    }
+    .blgtext-h {
+            font-size: 1.2em;
+    }
+    .blgtext-p {
+            font-size: 1.2em;
+            margin-top: -10px;
+    }
+    .responsive-blg-img {
+        height: 130px;
+        width: 180px;
+    }
+    .evergreen{
+        margin-top: -500px;
+        width: 58vw;
+        margin-left: 20px;
+    }
+    .highlight{
+        width: 60vw;
+    }
+    .content-evergreen {
+        width: 60vw;
+    }
+    .text {
+        width: 30vw;
+        font-size: 1.5em;     
+    }
+    .footer-top {
+            height: 10vh;
+            width: 99vw;
+            font-size: 10px;
+            background-color: rgb(35, 13, 56);
+    }
+    .footer-bottom {
+            width: 99vw;
+            font-size: 10px;
+    }
+    }
+
+@media screen and (max-width: 480px) {
+    html {
+        margin: 0%;
+        padding: 0%;
+    }
+    body {
+        width: 99vw;
+    }
+    .header-top {
+        width: 99vw;
+        height: 40vh;
+    }
+    .header-bottom {
+        height: 12vh;
+        width: 98.75vw;
+        font-size: 8px;
+        margin-top: -78px;
+    }
+    .header-nowon {
+        height: 12vh;
+    }
+    .nowon-text1 {
+        font-size: 1em;
+    }
+    .nowon-text2 {
+        font-size: 2em;
+    }
+    .flip-area {
+        height: 11.5vh;
+    }
+    .ghaata {
+        height: 11.5vh;
+    }
+    .ghaata-img {
+        height: 78px;
+        width:  6vw;
+    }
+    .responsive-ghaata-img {
+        height: 78px;
+        width:  16vw;
+        margin-left: -8px;
+    }
+    .ghaata-text {
+        margin-left: -20px;
+    }
+    .shiddat {
+        height: 11.5vh;
+    }
+    .responsive-shiddat-img {
+        height: 70px;
+        left: -12px;
+    }
+    .shiddat-text {
+        margin-top: -3px;
+    }
+    .bayhad {
+        height: 11.5vh;
+        width: 16vw;
+    }
+    .responsive-bayhad-img {
+        height: 70px;
+        left: -12px;
+    }
+    .bayhad-text {
+        margin-top: -3px; 
+    }
+    .fix-header {
+        width: 99vw;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+    .tv-icon {
+        margin-left: -320px;
+    }
+    .fix-header-bar{
+        width: 80vw;
+        font-size: 8px;
+    }
+    .header-social{
+        width: 94vw;
+    }
+    .center {
+        height: auto;
+        width: 99vw;
+    }
+    .container-main {
+        display: flex;
+        flex-direction: column;
+        height: 10000px;
+        width: auto;
+    }
+    .container-left{
+        display: flex;
+        justify-content: center;
+        width: 30vw;
+        margin-top: -500px;
+        margin-left: -1px;
+    }
+    .Schedule-text{
+        display: flex;
+        justify-content: center;
+        width: 10vw;
+        margin-left: 230px;
+    }
+    .responsive-schedule-img {
+        width: 200px;
+        height: 160px;
+    }
+    .container-right {
+        flex-direction: column;
+        width: 40vw;
+        height: auto;
+        margin-left: 30px;
+    }
+    .right-top {
+        height: 100vh;
+        width: 20vw;
+        margin-top: -1500px;
+    }
+    .responsive-righttop{
+        width: 220px;
+        height: 280px;
+    }
+    .blogs-area {
+        height: 200vh;
+        width: 25vw;
+        margin-top: 50px;
+    }
+    .blgtext {
+        width: 30vw;
+        margin-left: 10px;
+    }
+    .blgtext-h {
+            font-size: .8em;
+    }
+    .blgtext-p {
+            font-size: .6em;
+            margin-top: -10px;
+    }
+    .responsive-blg-img{
+        height: 70px;
+        width: 110px;
+    }
+    .evergreen{
+        margin-top: -500px;
+        width: 58vw;
+        margin-left: 140px;
+    }
+    .highlight{
+        width: 60vw;
+    }
+    .content-evergreen {
+        width: 40vw;
+    }
+    .text {
+        font-size: .75em;     
+    }
+    .text-footer {
+        width: 80vw;
+    }
+    .footer-top {
+        height: 12vh;
+        width: 99vw;
+        font-size: 7px;
+    }
+    .Social-icon {
+        margin-left: -5px;
+        width: 10vw;
+    }
+    .responsive-ftricon {
+        height: 5px;
+        width: 5px;
+    }
+    .footer-bottom {
+            width: 99vw;
+            font-size: 6px;
+    }
+    }
